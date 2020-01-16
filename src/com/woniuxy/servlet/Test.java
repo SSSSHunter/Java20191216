@@ -22,7 +22,7 @@ public class Test extends HttpServlet{
 		   
 		   context.setAttribute("status", "有同学正在上课打盹");
 		   
-		   context.setAttribute("status", "清醒了。。。。。");
+		   
 		   
 		   context.removeAttribute("status");
 		   
