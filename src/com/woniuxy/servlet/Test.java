@@ -24,7 +24,7 @@ public class Test extends HttpServlet{
 		   
 		   
 		   
-		   context.removeAttribute("status");
+		   
 		   
 //		   try {
 //			Thread.sleep(2000);
